@@ -13,7 +13,7 @@ import {
 import { MoonIcon, SunIcon } from "lucide-react";
 
 const ThemeToggle = () => {
-  const { setTheme } = useTheme();
+  const { theme, setTheme } = useTheme();
 
   return (
     <DropdownMenu>

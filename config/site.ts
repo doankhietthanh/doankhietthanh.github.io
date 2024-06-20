@@ -1,8 +1,8 @@
 export const siteConfig = {
-  name: "doankhietthanh/blog",
+  name: "doankhietthanh/portfolio",
   url: "https://ui.shadcn.com",
   ogImage: "https://ui.shadcn.com/og.jpg",
-  title: "doankhietthanh/blog",
+  title: "doankhietthanh/portfolio",
   description:
     "Blog sharing about web development, programming, and technology.",
   links: {
